@@ -1,7 +1,7 @@
 # Learning Task-shared and Specific Knowledge via Mixture-of-Experts in Generative Model for Continual Learning
 
 ## Network Architecture
-![Network Architecture](/Images/Framework.pdf)
+![Network Architecture](./Images/Framework.png)
 
 ## Dependencies
 - Python >= 3.8
